@@ -2,13 +2,13 @@
 <h3 align="center">I am an undergraduate student majoring in CS from Vietnam</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manhcuong02&label=Profile%20views&color=0e75b6&style=flat" alt="manhcuong02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmpogg&label=Profile%20views&color=0e75b6&style=flat" alt="nmpogg" /> </p>
 
 - 🎓 I am currently studying at PTIT - Posts and Telecommunications Institute of Technology.
 
 - 🌱 I’m currently learning **AI - LLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manhcuong02/](https://github.com/manhcuong02/)
+- 👨‍💻 All of my projects are available at [https://github.com/nmpogg/](https://github.com/nmpogg/)
 
 - 📫 How to reach me? Please contact **minhphong131hq@gmail.com**
 
@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmpogg&show_icons=true&locale=en&layout=compact" alt="nmpogg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhcuong02&show_icons=true&locale=en" alt="manhcuong02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmpogg&show_icons=true&locale=en" alt="nmpogg" /></p>
 
